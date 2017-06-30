@@ -5,7 +5,7 @@ This is a paper by Ms. Vinaya B. Savadekar and Mr. Manoj E. Patil.
 In this paper the authors talk about recommender systems and the different kinds of recommender systems that are present today. Most existing recommendation systems undergo the scalability and efficiency problem in processing data. The authors present an English language keyword list and domain thesaurus based personalized recommendation method.
 
 ---
-Keyowords: Big data, Hadoop, Map reduce, User Preferences, Recommendation systems
+Keywords: Big data, Hadoop, Map reduce, User Preferences, Recommendation systems
 ---
 Introduction:
 1. Big data: datasets that are too big to capture, store, manage and analyse.
